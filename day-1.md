@@ -6,3 +6,15 @@
 - [ ] Convert my first blog post into an actual webpage.
 
 ## <h3> Review
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
+```
+git clone https://github.com/skills/communicate-using-markdown
+```
+```js
+var myVar = "Hello, world!";
+```
+```js
+var myVar = "Hello, world!";
+```
